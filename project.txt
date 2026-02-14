@@ -1,4 +1,9 @@
 GitHub Pull Request Demo
 Version 1.0
 
+// this new line has been added via branch pr-update.
+This change was added via a pull request. 
 
+Here is a new line to change. 
+
+and to see whether the pull request will be updated automatically or not?
